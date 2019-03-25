@@ -40,7 +40,6 @@ ApplicationWindow {
             font.family: "Verdana"
             font.pixelSize: 15
             onChildrenChanged: d();
-
         }
     }
 
